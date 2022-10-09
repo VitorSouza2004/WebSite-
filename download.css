@@ -1,0 +1,19 @@
+body {
+  background-image: url(/bg.png);
+  color: red;
+}
+.cabesalho p{
+  color: white;
+  font-size: 30px;
+  text-align: center;
+}
+.download a{
+  color: white;
+  font-size: 30px;
+  text-align: center;
+}
+.download span{
+  font-size: 35px;
+  margin: 10px;
+  
+}
